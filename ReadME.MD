@@ -7,13 +7,8 @@ c:\ioncube_v82_decoder
                                 Zend XCache Decoder
                               PHP Encryptions Decode
                                All UpToDate Decoder
-                     Cracked and Ripe And Nulled By H@CK3R $2H
-                             Email : Hacker.S2h@Gmail.com
-                                Iran Hacker From 0861
                   ################################################
 
-This is IonCube v8.2 Decoder Like This :
-http://easytoyou.eu/buy
 
 Loaders :
 
@@ -29,9 +24,3 @@ ZendLoader.dll
 ZendOptimizer.dll
 
 and others...
-
-
-Iran Hacker is Best
-
-Email :
-Hacker.s2h@gmail.com
